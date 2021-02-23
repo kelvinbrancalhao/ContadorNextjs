@@ -1,0 +1,26 @@
+{
+  "name": "ContadorNextjs",
+  "version": "1.0.0",
+  "description": "Apenas um contador de exemplo para a Live da Fomenta Vale com  novo Futuro Tech",
+  "main": "index.js",
+  "scripts": {
+  "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelvinbrancalhao/ContadorNextjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelvinbrancalhao/ContadorNextjs/issues"
+  },
+  "homepage": "https://github.com/kelvinbrancalhao/ContadorNextjs#readme",
+  "dependencies": {
+    "next": "^10.0.7",
+    "react": "^17.0.1",
+    "react-com": "^1.0.6",
+    "react-dom": "^17.0.1"
+  }
+}
