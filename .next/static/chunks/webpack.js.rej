@@ -1,0 +1,10 @@
+diff a/.next/static/chunks/webpack.js b/.next/static/chunks/webpack.js	(rejected hunks)
+@@ -113,7 +113,7 @@
+ /******/
+ /******/ 	var hotApplyOnUpdate = true;
+ /******/ 	// eslint-disable-next-line no-unused-vars
+-/******/ 	var hotCurrentHash = "cbb0edda18b2290c2b36";
++/******/ 	var hotCurrentHash = "2e963dc92de71efb30a0";
+ /******/ 	var hotRequestTimeout = 10000;
+ /******/ 	var hotCurrentModuleData = {};
+ /******/ 	var hotCurrentChildModule;
